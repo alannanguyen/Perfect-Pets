@@ -1,4 +1,4 @@
-# Template-Driven-Angular-App
-Web Programming for Apps and Services college assignment
+# Perfect-Pets-App
+Web Programming Principles college assignment
 
-https://web422-alannanguyen.herokuapp.com/
+https://web222-alannanguyen.herokuapp.com/
